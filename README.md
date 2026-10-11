@@ -1,8 +1,8 @@
 <div align="center">
 
-# Maneesha Venigalla
+<img width="100%" src="assets/header.svg" alt="Maneesha Venigalla — I build things. Then I build other things." />
 
-**I build things. Then I build other things.**
+<br>
 
 Web · Machine Learning · Cloud · Networking · Security
 
@@ -18,16 +18,17 @@ she/her · [portfolio ↗](https://www.maneeshavenigalla.com) · [projects ↗](
 
 ### About me
 
-Always building side projects, exploring networks, and figuring out how systems work including the parts that would prefer I didn't.
+Always building side projects, exploring networks, and figuring out
+how systems work—including the parts that would prefer I didn't.
 
 Some work lives in private repos.
-The side project habit is public knowledge.
+The side-project habit is public knowledge.
 
 ### What I work on
 
-🌐 **Apps & interfaces** - useful ideas turned into working software  
-🧠 **ML & cloud** - experiments, models, and the infrastructure behind them  
-📡 **Networks & security** - packets, protocols, and interesting questions  
+🌐 **Apps & interfaces** — useful ideas turned into working software  
+🧠 **ML & cloud** — experiments, models, and the infrastructure behind them  
+📡 **Networks & security** — packets, protocols, and interesting questions  
 
 ---
 
